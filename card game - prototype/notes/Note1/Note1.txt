@@ -1,0 +1,14 @@
+METAS
+
+MECANICAS DO CARD GAME
+
+1 - conseguir selecionar cartas com o mouse
+2 - criar uma ia que irá confrontar o jogador
+3 - criar um deck de cartas
+4 -	vários inimigos, cada inimigo tem seu deck especial
+5 - desbloquear decks ao eliminar os oponentes
+
+IDEIAS PARALELAS 
+
+1 - maquinas de lançar cartas, cartas não tiram vida de cartas mas sim dos lançadores
+2 - 
