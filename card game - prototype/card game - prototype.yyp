@@ -29,8 +29,13 @@
     {"id":{"name":"sFloorTile","path":"sprites/sFloorTile/sFloorTile.yy",},},
     {"id":{"name":"oCardFireball","path":"objects/oCardFireball/oCardFireball.yy",},},
     {"id":{"name":"oMouse","path":"objects/oMouse/oMouse.yy",},},
-    {"id":{"name":"sCardFireball","path":"sprites/sCardFireball/sCardFireball.yy",},},
     {"id":{"name":"sCardSlot","path":"sprites/sCardSlot/sCardSlot.yy",},},
+    {"id":{"name":"sCardFireball","path":"sprites/sCardFireball/sCardFireball.yy",},},
+<<<<<<< Updated upstream
+    {"id":{"name":"sCardSlot","path":"sprites/sCardSlot/sCardSlot.yy",},},
+=======
+    {"id":{"name":"oCardSlot","path":"objects/oCardSlot/oCardSlot.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"oCard","path":"objects/oCard/oCard.yy",},},

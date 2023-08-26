@@ -9,6 +9,6 @@ draw_self()
 if(is_being_placed){
 
 draw_set_color(c_yellow)
-draw_rectangle(x - 1 , y - 1, x + sprite_width, y + sprite_height, 1)
+draw_rectangle(first_corner_x, first_corner_y, second_corner_x, second_corner_y, 1)
 
 }

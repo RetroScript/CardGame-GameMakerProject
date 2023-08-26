@@ -12,6 +12,10 @@
     {"name":"oCardFireball","order":1,"path":"objects/oCardFireball/oCardFireball.yy",},
     {"name":"oMouse","order":2,"path":"objects/oMouse/oMouse.yy",},
     {"name":"sCardSlot","order":2,"path":"sprites/sCardSlot/sCardSlot.yy",},
+<<<<<<< Updated upstream
+=======
+    {"name":"oCardSlot","order":3,"path":"objects/oCardSlot/oCardSlot.yy",},
+>>>>>>> Stashed changes
     {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"oCardSlot","order":3,"path":"objects/oCardSlot/oCardSlot.yy",},
   ],
