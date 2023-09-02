@@ -32,7 +32,9 @@
     {"id":{"name":"sCardFireball","path":"sprites/sCardFireball/sCardFireball.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+    {"id":{"name":"sCardSlot","path":"sprites/sCardSlot/sCardSlot.yy",},},
     {"id":{"name":"oCard","path":"objects/oCard/oCard.yy",},},
+    {"id":{"name":"oCardSlot","path":"objects/oCardSlot/oCardSlot.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
