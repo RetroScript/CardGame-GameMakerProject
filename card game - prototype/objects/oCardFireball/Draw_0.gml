@@ -6,7 +6,7 @@
 
 draw_self()
 
-if(is_being_placed){
+if(is_being_placed && oCardSlot.is_under_oCard = false){
 
 draw_set_color(c_yellow)
 draw_rectangle(first_corner_x, first_corner_y, second_corner_x, second_corner_y, 1)
